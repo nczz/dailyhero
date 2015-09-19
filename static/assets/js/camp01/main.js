@@ -139,7 +139,7 @@ $('#gPostIframe').load(function(){
 	alert('我們收到您的訂購囉！謝謝您的愛心支持。');
 	$('body').waitMe("hide");
 	resetAll();
-	//window.location.href='PATH/TO/dailyhero-postcard-campaign01-thankyou/';
+	window.location.href='https://www.facebook.com/DailyHeroTeam';
 });
 },4000);
 
